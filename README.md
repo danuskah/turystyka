@@ -1,5 +1,7 @@
 # Turystyczne Cuda Świata
 
+![Pocztówka](http://www.digitaltraduc.com/ARTICULOS_INTERES/Maravillas_mundo/01A.jpg "7 Cudów Swiata")
+
 **Siedem cudów świata (starożytnego)** – lista najbardziej znanych budowli w starożytności. Była swego rodzaju przewodnikiem turystycznym dla podróżników starożytności, którzy chcieli zobaczyć najbardziej sławne i znane miejsca.
 Wzorowane na niej są różne inne listy *(siedmiu)* cudów świata. Nawiązuje do nich też pojęcie ósmy cud świata.
 
