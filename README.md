@@ -1,8 +1,9 @@
-
 # Turystyczne Cuda Świata
 
 **Siedem cudów świata (starożytnego)** – lista najbardziej znanych budowli w starożytności. Była swego rodzaju przewodnikiem turystycznym dla podróżników starożytności, którzy chcieli zobaczyć najbardziej sławne i znane miejsca.
 Wzorowane na niej są różne inne listy *(siedmiu)* cudów świata. Nawiązuje do nich też pojęcie ósmy cud świata.
+
+- Oto lista najwazniejszych cudów świata wraz z odnośnikami
 
 1. [Piramida Cheopsa] (http://www.newsweek.pl/co-kryje-piramida-cheopsa,79580,1,1.html/ "Zobacz opis Piramidy Cheopsa")
 2. [Wiszące ogrody Semiramidy] (http://pl.wikipedia.org/wiki/Wisz%C4%85ce_ogrody_Semiramidy "Zobacz opis Piramidy Cheopsa")
@@ -13,5 +14,12 @@ Wzorowane na niej są różne inne listy *(siedmiu)* cudów świata. Nawiązuje 
 7. [Latarnia morska na Faros] (http://cuda-swiata.pl/latarnia-morska-na-wyspie-faros "Zobacz opis Latarnii morskiej na Faros")
 
 -------------
+## Najwazniejsze Dane o obiektach
+
+| Cud | Data | Budowniczy | Zniszczone | Powód zniszczenia |
+|-----|------|------------|:----------:|-------------------|
+| a   |      |            |            |                   |
+| a   |      |            |            |                   |
+|     |      |            |            |                   |
 
 
