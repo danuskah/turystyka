@@ -9,24 +9,12 @@ Wzorowane na niej są różne inne listy *(siedmiu)* cudów świata. Nawiązuje 
 | Cud | Data | Budowniczy | Zniszczone | Powód zniszczenia |
 |-----|------|------------|:----------:|-------------------|
 | Piramida Cheopsa   |   2575 p.n.e.   |    Egipcjanie    |    ciągle istnieje       |      brak         |
-| Wiszące ogrody Semiramidy   |   600 p.n.e.   |   Babilończycy     |            |                   |
-| Świątynia Artemidy w Efezie   |   560 p.n.e   |            |            |                   |
-| Posąg Zeusa w Olimpii	    |   435-430 p.n.e.   |            |            |                   |
-| Mauzoleum w Halikarnasie    |  353 p.n.e.    |            |            |                   |
-| Kolos Rodyjski    |   281 p.n.e.   |            |            |                   |
-|  Latarnia morska na Faros   |  280-279 p.n.e.    |            |            |                   |
-
-
-
-		
-			I wieku p.n.e.	trzęsienie ziemi
-	.[2]	Grecy, Lidyjczycy	III wiek n.e.	Wersja pierwotna spalona przez Herostratesa, a jej rekonstrukcja zniszczona przez najazd Gotów.
-[3]	Grecy	V – VI w n.e.	pożar
-	[4]	Grecy, Karowie	1494	trzęsienie ziemi
-	[2]	Grecy	224 p.n.e.	trzęsienie ziemi
-	[2]	Ptolemeusze, Grecy	1303-1480 n.e.	trzęsienie ziemi
-
-
+| Wiszące ogrody Semiramidy   |   600 p.n.e.   |   Babilończycy     |    I wiek p.n.e.        |      najazd Gotów         |
+| Świątynia Artemidy w Efezie   |   560 p.n.e   |     Grecy, Lidyjczycy       |      III wiek n.e.      |      trzęsienie ziemi             |
+| Posąg Zeusa w Olimpii	    |   435-430 p.n.e.   |     Grecy       |     V – VI w n.e.       |    pożar         |
+| Mauzoleum w Halikarnasie    |  353 p.n.e.    |     Grecy       |     1494       |      trzęsienie ziemi             |
+| Kolos Rodyjski    |   281 p.n.e.   |      Grecy      |      224 p.n.e.      |          trzęsienie ziemi         |
+|  Latarnia morska na Faros   |  280-279 p.n.e.    |     tolemeusze, Grecy       |    1303-1480 n.e.        |         trzęsienie ziemi          |
 
 
 -------------
