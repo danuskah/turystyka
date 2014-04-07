@@ -6,7 +6,7 @@
 Wzorowane na niej są różne inne listy *(siedmiu) cudów świata*. Nawiązuje do nich też pojęcie ósmy cud świata. ~~Gdyby był błąd w opisie to tak bym go skresliła~~
 
 -------------
-## Najwazniejsze Dane o obiektach
+## Najważniejsze dane o obiektach
 
 | Cud | Data | Budowniczy | Zniszczone | Powód zniszczenia |
 |-----|------|------------|:----------:|-------------------|
